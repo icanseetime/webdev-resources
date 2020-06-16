@@ -1,2 +1,2 @@
-# webdev-resources
-Web Development Resources
+# Web Development Resources
+A project aimed at collecting links and resources useful for learning web development. Mainly focused on moving the links from https://docs.google.com/spreadsheets/d/1VpDeL_3pLFaN4cRplyVs3b87Uqf1sPjwb9bxuMHr8fA/edit#gid=2123929999 over into a webpage. 
