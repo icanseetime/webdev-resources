@@ -43,7 +43,7 @@ nav ul li a:hover {
 }
 
 /* MAIN SECTION */
-#emne-box {
+#topic-box {
     border: 1px black solid;
     /* Background animation */
     background:
@@ -62,7 +62,7 @@ nav ul li a:hover {
     --secondaryColor: #e29587;
 }
 
-#emne-box:hover {
+#topic-box:hover {
     background-size: 1px 250px;
 }
 

@@ -1,6 +1,6 @@
-fetch('../js/emner.json')
+fetch('../js/topics.json')
     .then(response => response.json())
-    .then(emner => {
+    .then(topics => {
         // HEAD
         function addStylesheet(linkName, location, hashtag) {
             linkName = document.createElement('link')
@@ -35,7 +35,7 @@ fetch('../js/emner.json')
         let header = document.createElement('header')
         let h1 = document.createElement('h1')
 
-        h1.innerHTML = emner[0].navn
+        h1.innerHTML = topics[0].navn
 
         header.appendChild(h1)
 

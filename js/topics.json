@@ -1,9 +1,8 @@
 [
     {
-        "navn": "DOM (Document Object Model)",
-        "url": "dom",
-        "uke": 5,
-        "ressurser": [
+        "name": "HTML",
+        "url": "html",
+        "resources": [
             {
                 "name": "Document Object Modellen",
                 "url": "https://www.w3schools.com/js/js_htmldom.asp"
@@ -41,9 +40,8 @@
         "youtube2020": "https://www.youtube.com/watch?v=CTw4XZPxB3w&list=PLO68pUN1OcsfzQ-kefridOXPETnY_DmEc&index=2&t=0s"
     },
     {
-        "navn": "Egenskaper",
-        "url": "egenskaper",
-        "uke": 5,
+        "name": "CSS",
+        "url": "css",
         "ressurser": [
             {
                 "name": "Lage nye egenskaper med 'let'",
@@ -52,36 +50,26 @@
         ]
     },
     {
-        "navn": "Sette inn nye elementer i DOM'en",
-        "url": "nye-elementer-i-DOM",
-        "uke": 5,
+        "name": "JavaScript",
+        "url": "javascript",
         "ressurser": []
     },
     {
-        "navn": "Hente alle elementer som passer CSS selector",
-        "url": "hente-CSS",
-        "uke": 5,
+        "name": "Git",
+        "url": "git",
         "ressurser": []
     },
     {
-        "navn": "Gå gjennom en samling (elementer)",
-        "url": "gjennom-samling",
-        "uke": 5,
+        "name": "Design",
+        "url": "design",
         "ressurser": []
     },
     {
-        "navn": "JavaScript i HTML"
+        "name": "Web development",
+        "url": "web-development"
     },
     {
-        "navn": "Betinget utførsel av kode"
-    },
-    {
-        "navn": "JSON"
-    },
-    {
-        "navn": "Hente data fra filer"
-    },
-    {
-        "navn": "HTML Form-elementer og JavaScript"
+        "name": "React",
+        "url": "react"
     }
 ]
