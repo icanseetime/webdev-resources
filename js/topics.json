@@ -2,40 +2,80 @@
     {
         "name": "HTML",
         "url": "html",
-        "resources": [
-            {
-                "name": "Document Object Modellen",
-                "url": "https://www.w3schools.com/js/js_htmldom.asp"
+        "resources": {
+            "main-resources": {
+                "W3 Schools": {
+                    "url": "https://www.w3schools.com/",
+                    "info": "Basic documentation"
+                },
+                "MDN Web Docs": {
+                    "url": "https://developer.mozilla.org/en-US/",
+                    "info": "More comprehensive documentation"
+                },
+                "Google HTML/CSS Style Guide": {
+                    "url": "https://google.github.io/styleguide/htmlcssguide.html#Optional_Tags",
+                    "info": "General rules for styling HTML"
+                },
+                "Stack Overflow": {
+                    "url": "https://stackoverflow.com/",
+                    "info": "Forum for asking questions"
+                }
             },
-            {
-                "name": "DOM visualisert",
-                "url": "https://gojs.net/latest/samples/DOMTree.html"
+            "tools": {
+                "W3C Validator": {
+                    "url": "https://validator.w3.org/",
+                    "info": "HTML Validator"
+                },
+                "CodePen": {
+                    "url": "https://codepen.io/",
+                    "info": "Build test and discover front-end code. Free account."
+                },
+                "All The Tags": {
+                    "url": "https://allthetags.com/",
+                    "info": "Interactive HTML Tag Cheat Sheet"
+                },
+                "Regex generator": {
+                    "url": "http://gamon.webfactional.com/regexnumericrangegenerator/",
+                    "info": "Regex Numeric Range Generator"
+                },
+                "HTML Cheat Sheet": {
+                    "url": "https://htmlcheatsheet.com/",
+                    "info": "Interactive cheat sheet"
+                }
             },
-            {
-                "name": "DOM metoder og egenskaper",
-                "url": "https://www.w3schools.com/js/js_htmldom_methods.asp"
+            "interactive": {
+                "Khan Academy": {
+                    "url": "https://www.khanacademy.org/computing/computer-programming",
+                    "info": "Free after account registration"
+                },
+                "Educative": {
+                    "url": "https://www.educative.io/learn",
+                    "info": "6 months free through GitHub Student Pack"
+                },
+                "Frontend Masters": {
+                    "url": "https://frontendmasters.com/",
+                    "info": "6 months free through GitHub Student Pack"
+                },
+                "Interneting Is Hard": {
+                    "url": "https://internetingishard.com/",
+                    "info": "Free without registration"
+                },
+                "Scrimba": {
+                    "url": "https://scrimba.com/",
+                    "info": "Most courses free after account registration"
+                }
             },
-            {
-                "name": "querySelector for å finne elementer",
-                "url": "https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector"
-            },
-            {
-                "name": "CSS Selector reference",
-                "url": "https://www.w3schools.com/cssref/css_selectors.asp"
-            },
-            {
-                "name": "Prøv ut CSS selectorer",
-                "url": "https://www.w3schools.com/cssref/trysel.asp"
-            },
-            {
-                "name": "innerHTML (hent/angi teksten i et element)",
-                "url": "https://www.w3schools.com/jsref/prop_html_innerhtml.asp"
-            },
-            {
-                "name": "value (hent/angi verdien til et 'form'-element",
-                "url": "https://www.w3schools.com/jsref/prop_text_value.asp"
+            "articles": {
+                "HTML tags/elements": {
+                    "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element",
+                    "info": "Reference and explanation - all HTML elements"
+                },
+                "HTML data-* attribute": {
+                    "url": "https://www.w3schools.com/tags/att_data-.asp",
+                    "info": "Storing custom data private to the page or application"
+                }
             }
-        ],
+        },
         "youtube2019": "https://www.youtube.com/watch?v=Txt8mQ9SzuM&list=PLO68pUN1OcscT4qeYArSkZXsKdSAaeFEH&index=3&t=0s",
         "youtube2020": "https://www.youtube.com/watch?v=CTw4XZPxB3w&list=PLO68pUN1OcsfzQ-kefridOXPETnY_DmEc&index=2&t=0s"
     },
@@ -65,7 +105,7 @@
         "ressurser": []
     },
     {
-        "name": "Web development",
+        "name": "General web development",
         "url": "web-development"
     },
     {
