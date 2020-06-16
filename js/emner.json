@@ -1,0 +1,87 @@
+[
+    {
+        "navn": "DOM (Document Object Model)",
+        "url": "dom",
+        "uke": 5,
+        "ressurser": [
+            {
+                "name": "Document Object Modellen",
+                "url": "https://www.w3schools.com/js/js_htmldom.asp"
+            },
+            {
+                "name": "DOM visualisert",
+                "url": "https://gojs.net/latest/samples/DOMTree.html"
+            },
+            {
+                "name": "DOM metoder og egenskaper",
+                "url": "https://www.w3schools.com/js/js_htmldom_methods.asp"
+            },
+            {
+                "name": "querySelector for å finne elementer",
+                "url": "https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector"
+            },
+            {
+                "name": "CSS Selector reference",
+                "url": "https://www.w3schools.com/cssref/css_selectors.asp"
+            },
+            {
+                "name": "Prøv ut CSS selectorer",
+                "url": "https://www.w3schools.com/cssref/trysel.asp"
+            },
+            {
+                "name": "innerHTML (hent/angi teksten i et element)",
+                "url": "https://www.w3schools.com/jsref/prop_html_innerhtml.asp"
+            },
+            {
+                "name": "value (hent/angi verdien til et 'form'-element",
+                "url": "https://www.w3schools.com/jsref/prop_text_value.asp"
+            }
+        ],
+        "youtube2019": "https://www.youtube.com/watch?v=Txt8mQ9SzuM&list=PLO68pUN1OcscT4qeYArSkZXsKdSAaeFEH&index=3&t=0s",
+        "youtube2020": "https://www.youtube.com/watch?v=CTw4XZPxB3w&list=PLO68pUN1OcsfzQ-kefridOXPETnY_DmEc&index=2&t=0s"
+    },
+    {
+        "navn": "Egenskaper",
+        "url": "egenskaper",
+        "uke": 5,
+        "ressurser": [
+            {
+                "name": "Lage nye egenskaper med 'let'",
+                "url": "https://www.w3schools.com/js/js_let.asp"
+            }
+        ]
+    },
+    {
+        "navn": "Sette inn nye elementer i DOM'en",
+        "url": "nye-elementer-i-DOM",
+        "uke": 5,
+        "ressurser": []
+    },
+    {
+        "navn": "Hente alle elementer som passer CSS selector",
+        "url": "hente-CSS",
+        "uke": 5,
+        "ressurser": []
+    },
+    {
+        "navn": "Gå gjennom en samling (elementer)",
+        "url": "gjennom-samling",
+        "uke": 5,
+        "ressurser": []
+    },
+    {
+        "navn": "JavaScript i HTML"
+    },
+    {
+        "navn": "Betinget utførsel av kode"
+    },
+    {
+        "navn": "JSON"
+    },
+    {
+        "navn": "Hente data fra filer"
+    },
+    {
+        "navn": "HTML Form-elementer og JavaScript"
+    }
+]

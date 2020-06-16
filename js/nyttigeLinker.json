@@ -1,0 +1,37 @@
+[
+    {
+        "navn": "W3 Schools",
+        "url": "https://www.w3schools.com/",
+        "img": "w3schools.png"
+    },
+    {
+        "navn": "MDN Web Docs",
+        "url": "https://developer.mozilla.org/en-US/",
+        "img": "mdn.jpg"
+    },
+    {
+        "navn": "Stack Overflow",
+        "url": "https://stackoverflow.com/",
+        "img": "stackoverflow.png"
+    },
+    {
+        "navn": "Linker",
+        "url": "https://docs.google.com/spreadsheets/d/1VpDeL_3pLFaN4cRplyVs3b87Uqf1sPjwb9bxuMHr8fA/edit#gid=275950782",
+        "img": "linker.png"
+    },
+    {
+        "navn": "JavaScript Cheat Sheet",
+        "url": "https://htmlcheatsheet.com/js/",
+        "img": "jscheatsheet.png"
+    },
+    {
+        "navn": "Introduction to JavaScript",
+        "url": "https://scrimba.com/course/gintrotojavascript/enrolled",
+        "img": "scrimba.jpg"
+    },
+    {
+        "navn": "Fremdriftsplan",
+        "url": "https://ntnu.blackboard.com/webapps/blackboard/content/listContent.jsp?course_id=_19210_1&content_id=_685757_1&mode=reset",
+        "img": "blackboard.png"
+    }
+]
