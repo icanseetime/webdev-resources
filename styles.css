@@ -176,6 +176,11 @@ iframe {
     border: none;
 }
 
+/* TODO: fix background color not working */
+div#embed-player.player-large.player-light {
+    background-color: #30343c;
+}
+
 /* Footer */
 footer {
     height: 50px;
