@@ -2,29 +2,29 @@ fetch('../js/topics.json')
     .then(response => response.json())
     .then(topics => {
         // HEAD
-        function addStylesheet(linkName, location, hashtag) {
-            linkName = document.createElement('link')
-            linkName.rel = "stylesheet"
-            linkName.href = location
-            document.querySelector('head').appendChild(linkName)
-            linkName.id = hashtag
-        }
+        // function addStylesheet(linkName, location, hashtag) {
+        //     linkName = document.createElement('link')
+        //     linkName.rel = "stylesheet"
+        //     linkName.href = location
+        //     document.querySelector('head').appendChild(linkName)
+        //     linkName.id = hashtag
+        // }
 
-        function addScript(scriptName, location) {
-            scriptName = document.createElement('script')
-            scriptName.src = location
-            document.querySelector('body').appendChild(scriptName)
-        }
+        // function addScript(scriptName, location) {
+        //     scriptName = document.createElement('script')
+        //     scriptName.src = location
+        //     document.querySelector('body').appendChild(scriptName)
+        // }
 
-        //Adding stylesheets
-        addStylesheet("style", "../styles.css", "css-mode")
-        addStylesheet("fonts", "https://fonts.googleapis.com/css2?family=Baloo+2&family=Roboto&display=swap")
-        addStylesheet("darkmode", "../css/darkmode.css")
-        // addStylesheet("lightmode", "../css/lightmode.css")
+        // //Adding stylesheets
+        // addStylesheet("style", "../styles.css", "css-mode")
+        // addStylesheet("fonts", "https://fonts.googleapis.com/css2?family=Baloo+2&family=Roboto&display=swap")
+        // addStylesheet("darkmode", "../css/darkmode.css")
+        // // addStylesheet("lightmode", "../css/lightmode.css")
 
-        //Adding scripts
-        addScript("lysbryter", "../js/lysbryter-underside.js")
-        addScript("navigation", "../js/navigation.js")
+        // //Adding scripts
+        // addScript("lysbryter", "../js/lysbryter-underside.js")
+        // addScript("navigation", "../js/navigation.js")
 
 
         // BODY
@@ -33,13 +33,13 @@ fetch('../js/topics.json')
 
         //Header
         let header = document.createElement('header')
-        let h1 = document.createElement('h1')
+        // let h1 = document.createElement('h1')
 
-        h1.innerHTML = topics[0].navn
+        // h1.innerHTML = topics[0].navn
 
-        header.appendChild(h1)
+        // header.appendChild(h1)
 
-        body.appendChild(header)
+        // body.appendChild(header)
 
 
         // Navigation

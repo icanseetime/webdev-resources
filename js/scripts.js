@@ -9,7 +9,7 @@ fetch('/js/topics.json')
             const h2 = document.createElement('h2')
             const a = document.createElement('a')
 
-            a.href = `/topics/${topic.url}.html`
+            a.href = `/topic/${topic.url}.html`
             a.id = "main-link"
             div.id = "topic-box"
             h2.innerHTML = topic.name
@@ -46,4 +46,3 @@ fetch('js/nyttigeLinker.json')
             linkContainer.appendChild(a)
         });
     })
-    
